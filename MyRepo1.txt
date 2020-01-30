@@ -1,3 +1,5 @@
+My Activity :
 
-
-Ini adalah repo pertama saya, saya belajar di SMKN 1 Denpasar.
+  Berhasil Membuat Akun Github
+  Ini adalah repo pertama saya, saya belajar di SMKN 1 Denpasar.
+  Saya lagi mencoba fitur edit Github
